@@ -1,0 +1,8 @@
+{
+  "username": "email@bare.bears",
+  "password": "bearswin",
+  "bot": false,
+  "botToken": "a123u2492t4j01no",
+  "httpEndpointEnabled": true,
+  "echoCommandEnabled": true
+}

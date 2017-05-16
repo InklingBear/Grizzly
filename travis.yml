@@ -1,0 +1,4 @@
+language: go
+
+go:
+  - 2.0
